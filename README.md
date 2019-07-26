@@ -20,7 +20,7 @@ Now my bags looks like this! And on right side is the new bag....
 
 # Schematic
 
-![Schematic]()
+![Schematic](https://github.com/AnshumanFauzdar/DIY-ROG-BAG/blob/master/Schematic.jpg)
 
 # Webserver
 
