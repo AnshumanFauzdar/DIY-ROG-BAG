@@ -1,6 +1,7 @@
 [![](https://img.shields.io/github/downloads/AnshumanFauzdar/DIY-ROG-BAG/total?style=social)]()
 [![](https://img.shields.io/github/repo-size/AnshumanFauzdar/DIY-ROG-BAG?style=social)]()
 [![](https://img.shields.io/github/license/AnshumanFauzdar/DIY-ROG-BAG?style=social)]()
+[![](https://img.shields.io/github/release-pre/AnshumanFauzdar/DIY-ROG-BAG?style=social)]()
 # DIY ROG BAG
 
 Making my old ROG bagpack to newer version with RGB lights to give a fresh look without spending a lot of money for buying a new one!
